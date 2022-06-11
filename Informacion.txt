@@ -1,6 +1,0 @@
-En el directorio del proyecto, ejecutar :
-
-- node index.js
-
-Por consola se vera reflejado el resultado esperado.
-
