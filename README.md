@@ -4,6 +4,6 @@ Solution that renders the users that belongs to X modules whitin provided .json 
 
 # Run the program
 
-Withing the folder directory, execute :
+In the folder directory, execute :
 
 `node index.js`
